@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+En el repositorio [Universidad](https://github.com/constanzavicencio/universidad.git) están la mayoría de trabajos con programación que he hecho a lo largo de mis estudios. 
+
+Comencé a utilizar GitHub hace poco tiempo, por lo cual no he podido subir todo aún 😢
