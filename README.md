@@ -47,9 +47,5 @@ Desarrollo de Aplicaciones Web 🔒
 
 Bases de Datos 🔒
 
-# 🤓 Otros repositorios públicos
-
-[Gestor de Regiones y Comunas de Chile](https://github.com/constanzavicencio/gestor-comunas-regiones-chile) formulario hecho con HTML y JavaScript
-
 
 *Nota: Comencé a utilizar GitHub hace poco tiempo, por lo cual hay varios repositorios que aún no he subido*
