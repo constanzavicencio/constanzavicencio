@@ -6,7 +6,6 @@
 
 * Estudiante de Ingeniería Civil Industrial
 * Actualmente aprendiendo bases de datos y desarrollo web
-* Lloré estudiando Electromagnetismo (imagen adjunta 👉)
 
 # Algunas tecnologías que utilizo
 
